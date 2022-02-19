@@ -1,8 +1,6 @@
 <link href="markdown.css" rel="stylesheet" type="text/css" media="all"></link>
 
-![This is an image](/iPanopto_128.png)
-
-<img style="float: left;" src="iPanopto_128.png">
+![This is an image](/screenshotForMarkdown.png)
 
 # iPanopto - a Panopto video download Chrome extension
 
