@@ -8,22 +8,8 @@ Download the folder that contains the files included in the extension, and add t
 ### Usage
 To use it, navigate to the folder with the list of videos and click on the extension to select the desired videos. 
 
-<html>
 
-<head>
-  <title>iPanopto Downloader</title>
-  <meta charset="UTF-8">
-  <meta name="description" content="iPanopto - Chrome extension for Panopto video downloading">
-  <meta name="keywords" content="Chrome, Panopto, iPanopto, video, download">
-  <meta name="author" content="Cliff Yang, Wayne Wang">
-  <link rel="stylesheet" href="download.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap">
-  <link rel="icon" href="iPanopto.png">
-</head>
 
-<body>
   <div id="wrapper">
     <div id="name">
         <img src="iPanopto.png" id="logo">
@@ -53,6 +39,3 @@ To use it, navigate to the folder with the list of videos and click on the exten
       <span>https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked</span>
     </div>
   </div>
-</body>
-
-</html>
