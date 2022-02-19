@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 # iPanopto - a Panopto video download Chrome extension
 
 This is an extension that uses the RSS links found in the html code of Panopto pages to reach and download videos on Panopto.
@@ -8,8 +10,8 @@ Download the folder that contains the files included in the extension, and add t
 ### Usage
 To use it, navigate to the folder with the list of videos and click on the extension to select the desired videos. 
 
-<link href="style.css" rel="stylesheet"></link>
 
+<div id="wrapper"> 
 <div id="name">
     <img src="iPanopto.png" id="logo">
     <div id="titleTextDiv">
@@ -34,4 +36,5 @@ To use it, navigate to the folder with the list of videos and click on the exten
     <span>iPanopto</span>
     <span>Tired of watching Panopto videos online? Here is </span>      
     <span>https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked</span>
+</div>
 </div>
