@@ -11,5 +11,5 @@ Tired of watching Panopto videos online? Here is an extension that can downlaod 
 - Load the extension using the "Load unpacked" button and select the unzipped extension folder.
 - For detailed instructions visit [this page](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked).
 
-## Usage
-To use it, navigate to the folder with the list of videos and click on the extension to select the desired videos. 
+## Instructions
+Navigate to the Panopto folder with the videos and click on the extensions button. Use the checkboxes to select videos and click download. If nothing shows up, try refreshing the webpage.
