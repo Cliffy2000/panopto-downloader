@@ -1,4 +1,4 @@
-<link href="markdown.css" rel="stylesheet"></link>
+<link href="markdown.css" rel="stylesheet" type="text/css" media="all"></link>
 
 # iPanopto - a Panopto video download Chrome extension
 
@@ -29,7 +29,7 @@ To use it, navigate to the folder with the list of videos and click on the exten
 </div>
 
 <div id="notification">
-    <span>Now also available on Chrome extension store!</span>
+    <span font-size=300px>Now also available on Chrome extension store!</span>
 </div>
 
 <div id="description">
