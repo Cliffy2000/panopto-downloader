@@ -1,6 +1,9 @@
 <link href="markdown.css" rel="stylesheet" type="text/css" media="all"></link>
 
 ![This is an image](/iPanopto_128.png)
+
+<img style="float: left;" src="iPanopto_128.png">
+
 # iPanopto - a Panopto video download Chrome extension
 
 This is an extension that uses the RSS links found in the html code of Panopto pages to reach and download videos on Panopto.
