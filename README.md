@@ -8,7 +8,6 @@ Download the folder that contains the files included in the extension, and add t
 ### Usage
 To use it, navigate to the folder with the list of videos and click on the extension to select the desired videos. 
 
-<!DOCTYPE html>
 <html>
 
 <head>
