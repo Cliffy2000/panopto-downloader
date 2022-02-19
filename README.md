@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet"></link>
+<link href="markdown.css" rel="stylesheet"></link>
 
 # iPanopto - a Panopto video download Chrome extension
 
